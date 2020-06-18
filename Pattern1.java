@@ -1,4 +1,14 @@
 
+
+/*
+write a java programme to draw a below given pattern.
+        *
+        **
+        ***
+        ****
+        *****
+*/
+
 public class Pattern1 
 { 	
 	public static void main(String[] args)
